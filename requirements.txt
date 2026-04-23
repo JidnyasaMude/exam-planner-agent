@@ -1,9 +1,8 @@
 streamlit
-google-generativeai
+langchain
+langchain-groq
+langchain-community
+langchain-core
+langgraph
 tavily-python
 python-dotenv
-langgraph
-langchain
-langchain-google-genai
-langchain-community
-
